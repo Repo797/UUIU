@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "id": 1,
+            "subject": "Subject Name 1",
+            "department": "Department Name 1",
+            "year": 2023,
+            "course": "Course Name 1",
+            "semester": "Mid Sem",
+            "exam_type": "Theory",
+            "url": "https://ia600203.us.archive.org/8/items/iot_paper/iot_paper.pdf",
+            "file_name": "paper1.pdf"
+        },
+        {
+            "id": 2,
+            "subject": "Subject Name 2",
+            "department": "Department Name 2",
+            "year": 2022,
+            "course": "Course Name 2",
+            "semester": "Mid Sem",
+            "exam_type": "Practical",
+            "url": "https://example.com/paper2.pdf",
+            "file_name": "paper2.pdf"
+        },
+        {
+            "id": 3,
+            "subject": "Subject Name 3",
+            "department": "Department Name 3",
+            "year": 2021,
+            "course": "Course Name 3",
+            "semester": "End Sem",
+            "exam_type": "Theory",
+            "url": "https://example.com/paper3.pdf",
+            "file_name": "paper3.pdf"
+        }
+        
+
+
+    ]
+}
